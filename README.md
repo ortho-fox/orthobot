@@ -4,6 +4,8 @@ A discord bot that posts ESV bible passages when referenced in chat
 
 (You can produce NIV bible passages if you rename NIVbible.json to bible.json)
 
+NKJV with full Orthodox cannon coming soon...
+
 ## Usage
 
 When you type a message of one of the following categories into a text server, orthobot will respond as appropriate
