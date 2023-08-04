@@ -19,7 +19,7 @@ module.exports = {
         .setTitle(formattedReference)
         .setDescription(verseText)
         .setTimestamp()
-        .setFooter({ text: '(nkjv) - 🦊 orthofox' });
+        .setFooter({ text: '🦊 orthofox' });
 
       interaction.reply({ embeds: [embedMessage] });
     } catch (error) {
